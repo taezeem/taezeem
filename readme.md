@@ -38,7 +38,7 @@
 
 - 💼 Main: [@taezeem14](https://github.com/taezeem14)  
 - 🌍 Website: [taezeem.me](https://taezeem.me)
-- ✉ E-Mail:[Outlook](mailto:taezeemtariq@outlook.com) 
+- ✉ E-Mail: [Outlook](mailto:taezeemtariq@outlook.com) 
 - ☕ Hit me up if you wanna collab, build, or test cool ideas!
 
 ---
