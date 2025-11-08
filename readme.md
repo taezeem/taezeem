@@ -1,7 +1,6 @@
 # 🌀 Yo, I'm Taezeem [A.K.A Taezeem](https://github.com/taezeem14)
 
 [![GitHub followers](https://img.shields.io/github/followers/taezeem?label=Follow&style=social)](https://github.com/taezeem)
-[![Profile Views](https://komarev.com/ghpvc/?username=taezeem&color=blueviolet&style=flat-square)](https://github.com/taezeem)
 
 ---
 
@@ -38,7 +37,8 @@
 ## 🕸 Connect
 
 - 💼 Main: [@taezeem14](https://github.com/taezeem14)  
-- 🌍 Website: [taezeem.me](https://taezeem.me)  
+- 🌍 Website: [taezeem.me](https://taezeem.me)
+- ✉ E-Mail:[Outlook](mailto:taezeemtariq@outlook.com) 
 - ☕ Hit me up if you wanna collab, build, or test cool ideas!
 
 ---
